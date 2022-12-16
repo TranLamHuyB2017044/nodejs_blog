@@ -1,0 +1,30 @@
+{
+  "name": "web-application-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --inspect app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranLamHuyB2017044/nodejs_blog.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "huy lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranLamHuyB2017044/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/TranLamHuyB2017044/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
